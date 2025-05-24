@@ -8,10 +8,10 @@ This project aims to predict Air Quality Index (AQI) levels using real-time moni
 ##  Key Highlights
 
 -  Real-time air pollution data analysis
+-  Visualizations and EDA for actionable insights
 -  Multiple ML models including XGBoost, Random Forest, and Gradient Boosting
 -  Performance tuning via feature selection & hyperparameter optimization
 -  Deployment-ready with a Flask API
--  Visualizations and EDA for actionable insights
 
 ---
 
@@ -20,9 +20,7 @@ This project aims to predict Air Quality Index (AQI) levels using real-time moni
 - **Source**: https://drive.google.com/file/d/1qEhnxnsgnBe4i6M9CNcGev0LaFsyu3kf/view?usp=sharing
 - **File**: `Air Now Current Monitor Data Public.csv`
 - **Features**:
-  - Air pollutants: `PM2.5`, `PM10`, `OZONE`
-  - AQI values: `PM2.5AQI`, `PM10AQI`, `OzoneAQI`
-  - Geolocation: `Latitude`, `Longitude`, `StateName`, `ReportingArea`etc
+ `PM2.5`, `PM10`, `OZONE`,`PM2.5AQI`, `PM10AQI`, `OzoneAQI`,`Latitude`, `Longitude`, `StateName`, `ReportingArea`etc
     
 
 ---

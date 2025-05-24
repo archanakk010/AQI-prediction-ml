@@ -17,8 +17,8 @@ This project aims to predict Air Quality Index (AQI) levels using real-time moni
 
 ##  Dataset Information
 
-- **Source**: https://drive.google.com/file/d/1qEhnxnsgnBe4i6M9CNcGev0LaFsyu3kf/view?usp=sharing
-- **File**: `Air Now Current Monitor Data Public.csv`
+- **Source**: U.S. EPA / AirNow API (Public)
+- **File**:  https://drive.google.com/file/d/1qEhnxnsgnBe4i6M9CNcGev0LaFsyu3kf/view?usp=sharing
 - **Features**:
  `PM2.5`, `PM10`, `OZONE`,`PM2.5AQI`, `PM10AQI`, `OzoneAQI`,`Latitude`, `Longitude`, `StateName`, `ReportingArea`etc
     
